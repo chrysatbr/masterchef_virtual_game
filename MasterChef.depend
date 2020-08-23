@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1526304574 source:c:\users\xrysa\desktop\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524418708 c:\users\xrysa\desktop\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524418594 c:\users\xrysa\desktop\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1527330452 c:\users\xrysa\desktop\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1527330452 c:\users\xrysa\desktop\masterchefpartd\team.h
+	"Player.h"
+
+1524418832 c:\users\xrysa\desktop\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1527330053 c:\users\xrysa\desktop\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1527330053 source:c:\users\xrysa\desktop\masterchefpartd\voting.cpp
+	"Voting.h"
+	"Team.h"
+	"Vote.h"
+	<time.h>
+
+1527330053 c:\users\xrysa\desktop\masterchefpartd\voting.h
+	<vector>
+	<iostream>
+	<map>
+	<string>
+	"Vote.h"
+	"Team.h"
+
+1527330053 c:\users\xrysa\desktop\masterchefpartd\vote.h
+	<iostream>
+	<string>
